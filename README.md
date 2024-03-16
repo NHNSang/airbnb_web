@@ -1,3 +1,24 @@
+<!-- 
+1)Thư viện:
+hero icon: npm i @heroicons/react
+mapbox: npm install mapbox-gl -save, npm install --save react-map-gl, npm i geo-lib
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
