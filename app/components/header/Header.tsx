@@ -21,5 +21,4 @@ const Header = ({placeholder} : {placeholder: string}) => {
     </header>
   )
 }
-
 export default Header
